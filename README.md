@@ -86,6 +86,6 @@ Below is a more in-depth explanation of the various cells coded within the `Cryp
 
 [^5]: Cell added to find values without risk of dyslexic error (as notated in cells of notebook and [Breaking down the code](#Breaking-down-the-code) table)
 
-[^6]: `_pca`, `_pca_`, or `pca_` added to objects to differentiate from previous `KMeans()` `for` loop
+[^6]: `_pca`, `_pca_`, or `pca_` added to objects to differentiate from previous instances with similar names
 
 [^7]: Conflicting instructions made it unclear as whether to use `plot.scatter` or `hvplot.scatter`, so both methods were used
