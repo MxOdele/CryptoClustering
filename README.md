@@ -1,9 +1,10 @@
 # CryptoClustering
 
 <div align='center'>
-    <img />
+    <img src='https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg' height='300' title='Coin representations of three cryptocurrencies (BitCoin, Etherium, and Ripple) next to a micro-sd card for scale (image courtesy of Pexels)' alt='Three coins stamped with the logos of the cryptocurrencies they represent - one gold coin with circutry lines and the "B" of BitCoin, one silver coin with the word "etherium" and a golden pyramid above a golden chevron, and one gold coin with a map of the word and the logo and lettering for "ripple" - all laying beside a micro-sd card.' />
 
 *Crypto Clustering*[^1]
+#### Module 11 Challenge
 
 ## READ ME
 </div>
@@ -74,7 +75,7 @@ Text
 | 29 | Text |
 | 30 | Text |
 
-[^1]: Text
+[^1]: Image courtesy of the free source image site, <a href='https://www.pexels.com/photo/ripple-etehereum-and-bitcoin-and-micro-sdhc-card-844124/' title='Link to Pexels listing for image'>Pexels</a>
 
 [^2]: Text
 
