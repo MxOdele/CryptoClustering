@@ -41,7 +41,7 @@ Text
 
 Text
 
-| Cell (in sequence) | Notes[^2] [^3] |
+| Cell (in sequence) | Notes[^2][^3] |
 | ---: | :--- |
 | 1 | Text |
 | 2 | Text |
@@ -74,8 +74,8 @@ Text
 | 29 | Text |
 | 30 | Text |
 
-[^1] : Text
+[^1]: Text
 
-[^2] : Text
+[^2]: Text
 
-[^3] : Text
+[^3]: Text
